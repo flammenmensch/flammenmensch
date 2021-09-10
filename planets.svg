@@ -1,1 +1,32 @@
-<svg id="e7402UJmeK81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><style><![CDATA[#e7402UJmeK83_tr {animation: e7402UJmeK83_tr__tr 6000ms linear infinite normal forwards}@keyframes e7402UJmeK83_tr__tr { 0% {transform: translate(318.617021px,240px) rotate(0deg)} 100% {transform: translate(318.617021px,240px) rotate(-720deg)}} #e7402UJmeK85_tr {animation: e7402UJmeK85_tr__tr 6000ms linear infinite normal forwards}@keyframes e7402UJmeK85_tr__tr { 0% {transform: translate(389.050525px,152.118744px) rotate(0deg)} 100% {transform: translate(389.050525px,152.118744px) rotate(1440deg)}} #e7402UJmeK86_tr {animation: e7402UJmeK86_tr__tr 6000ms linear infinite normal forwards}@keyframes e7402UJmeK86_tr__tr { 0% {transform: translate(320px,240px) rotate(0deg)} 100% {transform: translate(320px,240px) rotate(-1080deg)}} #e7402UJmeK87_tr {animation: e7402UJmeK87_tr__tr 6000ms linear infinite normal forwards}@keyframes e7402UJmeK87_tr__tr { 0% {transform: translate(320px,240px) rotate(0deg)} 100% {transform: translate(320px,240px) rotate(-360deg)}}]]></style><defs><filter id="e7402UJmeK82-filter" x="-400%" width="600%" y="-400%" height="600%"><feGaussianBlur id="e7402UJmeK82-filter-drop-shadow-0-blur" in="SourceAlpha" stdDeviation="10,10"/><feOffset id="e7402UJmeK82-filter-drop-shadow-0-offset" dx="0" dy="0" result="tmp"/><feFlood id="e7402UJmeK82-filter-drop-shadow-0-flood" flood-color="rgb(255,139,0)"/><feComposite id="e7402UJmeK82-filter-drop-shadow-0-composite" operator="in" in2="tmp"/><feMerge id="e7402UJmeK82-filter-drop-shadow-0-merge"><feMergeNode id="e7402UJmeK82-filter-drop-shadow-0-merge-node-1"/><feMergeNode id="e7402UJmeK82-filter-drop-shadow-0-merge-node-2" in="SourceGraphic"/></feMerge></filter></defs><ellipse id="e7402UJmeK82" rx="37.5" ry="37.5" transform="matrix(1 0 0 1 320 240)" filter="url(#e7402UJmeK82-filter)" fill="rgb(255,158,0)" stroke="none" stroke-width="0"/><g id="e7402UJmeK83_tr" transform="translate(318.617021,240) rotate(0)"><g id="e7402UJmeK83" transform="translate(-318.617019,-239.999998)"><ellipse id="e7402UJmeK84" rx="12.5" ry="12.5" transform="matrix(0.996074 0.088522 -0.088522 0.996074 389.050525 152.118744)" fill="rgb(56,100,184)" stroke="none" stroke-width="0"/><g id="e7402UJmeK85_tr" transform="translate(389.050525,152.118744) rotate(0)"><ellipse id="e7402UJmeK85" rx="5" ry="5" transform="translate(-26.550488,-18.557445)" fill="rgb(161,161,161)" stroke="none" stroke-width="0"/></g></g></g><g id="e7402UJmeK86_tr" transform="translate(320,240) rotate(0)"><ellipse id="e7402UJmeK86" rx="15" ry="15" transform="translate(-146.917708,-44.164584)" fill="rgb(195,19,38)" stroke="none" stroke-width="0"/></g><g id="e7402UJmeK87_tr" transform="translate(320,240) rotate(0)"><ellipse id="e7402UJmeK87" rx="20" ry="20" transform="translate(0,208.803565)" fill="rgb(18,117,1)" stroke="none" stroke-width="0"/></g></svg>
+<svg id="e7402UJmeK81" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <style>
+    @keyframes e7402UJmeK83_tr__tr{0%{transform:translate(318.617021px,240px) rotate(0deg)}to{transform:translate(318.617021px,240px) rotate(-720deg)}}@keyframes e7402UJmeK85_tr__tr{0%{transform:translate(389.050525px,152.118744px) rotate(0deg)}to{transform:translate(389.050525px,152.118744px) rotate(1440deg)}}@keyframes e7402UJmeK86_tr__tr{0%{transform:translate(320px,240px) rotate(0deg)}to{transform:translate(320px,240px) rotate(-1080deg)}}@keyframes e7402UJmeK87_tr__tr{0%{transform:translate(320px,240px) rotate(0deg)}to{transform:translate(320px,240px) rotate(-360deg)}}
+  </style>
+  <defs>
+    <filter id="e7402UJmeK82-filter" x="-400%" width="600%" y="-400%" height="600%">
+      <feGaussianBlur id="e7402UJmeK82-filter-drop-shadow-0-blur" in="SourceAlpha" stdDeviation="10,10"/>
+      <feOffset id="e7402UJmeK82-filter-drop-shadow-0-offset" dx="0" dy="0" result="tmp"/>
+      <feFlood id="e7402UJmeK82-filter-drop-shadow-0-flood" flood-color="#FF8B00"/>
+      <feComposite id="e7402UJmeK82-filter-drop-shadow-0-composite" operator="in" in2="tmp"/>
+      <feMerge id="e7402UJmeK82-filter-drop-shadow-0-merge">
+        <feMergeNode id="e7402UJmeK82-filter-drop-shadow-0-merge-node-1"/>
+        <feMergeNode id="e7402UJmeK82-filter-drop-shadow-0-merge-node-2" in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <circle id="e7402UJmeK82" transform="translate(320 240)" filter="url(#e7402UJmeK82-filter)" fill="#FF9E00" stroke="none" stroke-width="0" r="37.5"/>
+  <g transform="translate(318.617 240)" style="animation:e7402UJmeK83_tr__tr 6000ms linear infinite normal forwards">
+    <g id="e7402UJmeK83" transform="translate(-318.617 -240)">
+      <circle id="e7402UJmeK84" transform="rotate(5.079 -1520.519 4462.394)" fill="#3864B8" stroke="none" stroke-width="0" r="12.5"/>
+      <g transform="translate(389.05 152.119)" style="animation:e7402UJmeK85_tr__tr 6000ms linear infinite normal forwards">
+        <circle id="e7402UJmeK85" transform="translate(-26.55 -18.557)" fill="#A1A1A1" stroke="none" stroke-width="0" r="5"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(320 240)" style="animation:e7402UJmeK86_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="e7402UJmeK86" transform="translate(-146.918 -44.165)" fill="#C31326" stroke="none" stroke-width="0" r="15"/>
+  </g>
+  <g transform="translate(320 240)" style="animation:e7402UJmeK87_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="e7402UJmeK87" transform="translate(0 208.804)" fill="#127501" stroke="none" stroke-width="0" r="20"/>
+  </g>
+</svg>
