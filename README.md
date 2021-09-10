@@ -1,1 +1,1 @@
-<img src="icons.svg" alt="Icons" />
+<img src="planets.svg" alt="Planets" />
