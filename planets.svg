@@ -1,32 +1,44 @@
-<svg id="e7402UJmeK81" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<svg id="planets" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
   <style>
-    @keyframes e7402UJmeK83_tr__tr{0%{transform:translate(318.617021px,240px) rotate(0deg)}to{transform:translate(318.617021px,240px) rotate(-720deg)}}@keyframes e7402UJmeK85_tr__tr{0%{transform:translate(389.050525px,152.118744px) rotate(0deg)}to{transform:translate(389.050525px,152.118744px) rotate(1440deg)}}@keyframes e7402UJmeK86_tr__tr{0%{transform:translate(320px,240px) rotate(0deg)}to{transform:translate(320px,240px) rotate(-1080deg)}}@keyframes e7402UJmeK87_tr__tr{0%{transform:translate(320px,240px) rotate(0deg)}to{transform:translate(320px,240px) rotate(-360deg)}}
+    @keyframes planets-ellipse1_tr__tr{0%{transform:translate(320.000005px,241.061301px) rotate(-360deg)}to{transform:translate(320.000005px,241.061301px) rotate(0deg)}}@keyframes planets-ellipse2_tr__tr{0%{transform:translate(320px,240px) rotate(-360deg)}to{transform:translate(320px,240px) rotate(0deg)}}@keyframes planets-ellipse3_tr__tr{0%{transform:translate(320.000005px,240px) rotate(-360deg)}to{transform:translate(320.000005px,240px) rotate(0deg)}}@keyframes planets-path1_tr__tr{0%{transform:translate(320.000005px,239.999995px) rotate(0deg)}to{transform:translate(320.000005px,239.999995px) rotate(36deg)}}@keyframes planets-g1_tr__tr{0%{transform:translate(318.617021px,240px) rotate(0deg)}to{transform:translate(318.617021px,240px) rotate(-720deg)}}@keyframes planets-moon_tr__tr{0%{transform:translate(389.050525px,152.118744px) rotate(0deg)}to{transform:translate(389.050525px,152.118744px) rotate(1440deg)}}@keyframes planets-red-planet_tr__tr{0%{transform:translate(320px,240px) rotate(0deg)}to{transform:translate(320px,240px) rotate(-1080deg)}}@keyframes planets-green-planet_tr__tr{0%{transform:translate(320px,240px) rotate(0deg)}to{transform:translate(320px,240px) rotate(-360deg)}}
   </style>
   <defs>
-    <filter id="e7402UJmeK82-filter" x="-400%" width="600%" y="-400%" height="600%">
-      <feGaussianBlur id="e7402UJmeK82-filter-drop-shadow-0-blur" in="SourceAlpha" stdDeviation="10,10"/>
-      <feOffset id="e7402UJmeK82-filter-drop-shadow-0-offset" dx="0" dy="0" result="tmp"/>
-      <feFlood id="e7402UJmeK82-filter-drop-shadow-0-flood" flood-color="#FF8B00"/>
-      <feComposite id="e7402UJmeK82-filter-drop-shadow-0-composite" operator="in" in2="tmp"/>
-      <feMerge id="e7402UJmeK82-filter-drop-shadow-0-merge">
-        <feMergeNode id="e7402UJmeK82-filter-drop-shadow-0-merge-node-1"/>
-        <feMergeNode id="e7402UJmeK82-filter-drop-shadow-0-merge-node-2" in="SourceGraphic"/>
+    <filter id="planets-sun-filter" x="-400%" width="600%" y="-400%" height="600%">
+      <feGaussianBlur id="planets-sun-filter-drop-shadow-0-blur" in="SourceAlpha" stdDeviation="10,10"/>
+      <feOffset id="planets-sun-filter-drop-shadow-0-offset" dx="0" dy="0" result="tmp"/>
+      <feFlood id="planets-sun-filter-drop-shadow-0-flood" flood-color="#FF8B00"/>
+      <feComposite id="planets-sun-filter-drop-shadow-0-composite" operator="in" in2="tmp"/>
+      <feMerge id="planets-sun-filter-drop-shadow-0-merge">
+        <feMergeNode id="planets-sun-filter-drop-shadow-0-merge-node-1"/>
+        <feMergeNode id="planets-sun-filter-drop-shadow-0-merge-node-2" in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <circle id="e7402UJmeK82" transform="translate(320 240)" filter="url(#e7402UJmeK82-filter)" fill="#FF9E00" stroke="none" stroke-width="0" r="37.5"/>
-  <g transform="translate(318.617 240)" style="animation:e7402UJmeK83_tr__tr 6000ms linear infinite normal forwards">
-    <g id="e7402UJmeK83" transform="translate(-318.617 -240)">
-      <circle id="e7402UJmeK84" transform="rotate(5.079 -1520.519 4462.394)" fill="#3864B8" stroke="none" stroke-width="0" r="12.5"/>
-      <g transform="translate(389.05 152.119)" style="animation:e7402UJmeK85_tr__tr 6000ms linear infinite normal forwards">
-        <circle id="e7402UJmeK85" transform="translate(-26.55 -18.557)" fill="#A1A1A1" stroke="none" stroke-width="0" r="5"/>
+  <g transform="translate(320 241.061)" style="animation:planets-ellipse1_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="planets-ellipse1" fill="none" stroke="rgba(66,66,66,0.5)" stroke-width="1" stroke-linecap="round" stroke-dasharray="1,2,1,2" r="112.5"/>
+  </g>
+  <g transform="translate(320 240)" style="animation:planets-ellipse2_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="planets-ellipse2" fill="none" stroke="rgba(66,66,66,0.5)" stroke-width="1" stroke-linecap="round" stroke-dasharray="2,2,2,2" r="152.5"/>
+  </g>
+  <g transform="translate(320 240)" style="animation:planets-ellipse3_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="planets-ellipse3" fill="none" stroke="rgba(66,66,66,0.5)" stroke-width="1" stroke-linecap="round" stroke-dasharray="1,2,1,2" r="210"/>
+  </g>
+  <g transform="translate(320 240)" style="animation:planets-path1_tr__tr 6000ms linear infinite normal forwards">
+    <path id="planets-path1" d="m356.456 231.214 13.393 12.666-15.191 10.44 3.39 18.12-18.427-.483-7.907 16.651-14.624-11.221-16.184 8.823-5.236-17.674-18.28-2.374 6.154-17.376-13.393-12.666 15.191-10.44-3.39-18.12 18.427.483 7.907-16.651 14.624 11.221 16.184-8.823 5.236 17.674 18.28 2.374-6.154 17.376ZM320 275c19.33 0 35-15.67 35-35s-15.67-35-35-35-35 15.67-35 35 15.67 35 35 35Z" transform="translate(-320 -240)" fill="#FF9E00" stroke="none" stroke-width="0"/>
+  </g>
+  <circle id="planets-sun" transform="translate(320 240)" filter="url(#planets-sun-filter)" fill="#FF9E00" stroke="none" stroke-width="0" r="32.5"/>
+  <g transform="translate(318.617 240)" style="animation:planets-g1_tr__tr 6000ms linear infinite normal forwards">
+    <g id="planets-g1" transform="translate(-318.617 -240)">
+      <circle id="planets-blue-planet" transform="rotate(5.079 -1520.519 4462.394)" fill="#3864B8" stroke="none" stroke-width="0" r="12.5"/>
+      <g transform="translate(389.05 152.119)" style="animation:planets-moon_tr__tr 6000ms linear infinite normal forwards">
+        <circle id="planets-moon" transform="translate(-26.55 -18.557)" fill="#A1A1A1" stroke="none" stroke-width="0" r="5"/>
       </g>
     </g>
   </g>
-  <g transform="translate(320 240)" style="animation:e7402UJmeK86_tr__tr 6000ms linear infinite normal forwards">
-    <circle id="e7402UJmeK86" transform="translate(-146.918 -44.165)" fill="#C31326" stroke="none" stroke-width="0" r="15"/>
+  <g transform="translate(320 240)" style="animation:planets-red-planet_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="planets-red-planet" transform="translate(-146.918 -44.165)" fill="#C31326" stroke="none" stroke-width="0" r="15"/>
   </g>
-  <g transform="translate(320 240)" style="animation:e7402UJmeK87_tr__tr 6000ms linear infinite normal forwards">
-    <circle id="e7402UJmeK87" transform="translate(0 208.804)" fill="#127501" stroke="none" stroke-width="0" r="20"/>
+  <g transform="translate(320 240)" style="animation:planets-green-planet_tr__tr 6000ms linear infinite normal forwards">
+    <circle id="planets-green-planet" transform="translate(0 208.804)" fill="#127501" stroke="none" stroke-width="0" r="20"/>
   </g>
 </svg>
