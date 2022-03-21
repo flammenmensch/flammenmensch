@@ -1,4 +1,4 @@
-# Alexey Protasov
+# Alexey Protasov 🐙
 Senior frontend developer
 
 ## Languages and technologies
